@@ -2,8 +2,6 @@
 // 직사각형 별찍기
 // https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript
 
-// 문제 접근 방법
-
 // 코드
 process.stdin.setEncoding("utf8");
 process.stdin.on("data", (data) => {
