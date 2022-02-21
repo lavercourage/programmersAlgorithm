@@ -3,7 +3,7 @@
 // https://programmers.co.kr/learn/courses/30/lessons/12935
 
 // 코드
-function solution(arr) {
+const solution = (arr) => {
   // 제일 작은 수를 저장해주는 변수
   let min = arr[0];
   for (let i = 1; i < arr.length; i++) {
@@ -18,4 +18,4 @@ function solution(arr) {
   }
 
   return arr;
-}
+};
