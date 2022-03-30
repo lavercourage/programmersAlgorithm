@@ -37,3 +37,8 @@ function solution(answers) {
 // 기타
 // 문제부더 다시 천천히 읽고 for문 내에 for문 재사용에 대해서 왜 그런지 생각해보기
 // 한번 더 생각해보자
+
+// 또 살짝 헷갈린 배열 표기에 대해 되짚어보기!!
+// mathAnswer 의 배열 안에 여러 배열이 들어있음
+// 위의 코드에서는 mathAnswer 변수를 생각하면 됨
+// mathAnswer[i][l] => mathAnswer 배열의 [i]번째 배열의 [l]의 위치의 값 => mathAnswer[0][1] => 2
